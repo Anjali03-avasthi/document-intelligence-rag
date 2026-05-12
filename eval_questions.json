@@ -1,0 +1,15 @@
+[
+  {
+    "question": "What numbers of wood used for fuelling boilers in tons for 2021 and 2020?",
+    "expected_sources": [
+      "2022-Absa-Group-limited-Environmental-Social-and-Governance-Data-sheet.pdf"
+    ],
+    "expected_terms": ["wood", "2021", "2020", "tons"]
+  },
+  {
+    "question": "Which source mentions emissions reduction targets?",
+    "expected_sources": [],
+    "expected_terms": ["emissions", "reduction"]
+  }
+]
+
