@@ -20,3 +20,5 @@ temp.pdf
 sample_report.pdf
 INTERVIEW_PREP.md
 LEARNING.md
+venv/
+.env

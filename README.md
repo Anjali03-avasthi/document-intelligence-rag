@@ -1,6 +1,6 @@
-# Semantic Search RAG
+# Document Intelligence RAG
 
-A beginner-friendly Retrieval Augmented Generation (RAG) project built with Streamlit, LangChain, OpenAI embeddings, and Chroma.
+A Retrieval-Augmented Generation application for asking questions over PDF documents using embeddings, ChromaDB, and an LLM.
 
 The app reads local PDF and CSV files from the `data/` folder, indexes them into a vector database, and lets you ask questions about those documents through a chat interface.
 
